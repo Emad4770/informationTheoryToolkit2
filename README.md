@@ -2,6 +2,7 @@
 a tool for computing and analyzing entropy differences in both discrete and continuous random variables.
 
 Project
+
 • Compute the difference between the entropy of a discrete random variable given its p.m.f. vector (choose some p.m.f. vectors to test) and the
 entropy of an estimated p.m.f. from a set of samples generated through
 the same p.m.f. vector. You can choose freely one p.m.f. vector.
